@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1024106326513",
+    "project_id": "firebase-social-connection"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024106326513:android:339f384fc50872be",
+        "android_client_info": {
+          "package_name": "com.borombo.demo.socialconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024106326513-0qq0neaapb20t2rfvoc343ut38bktqpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.borombo.demo.socialconnection",
+            "certificate_hash": "36D70FBCF05B8ACFCF52E21C8EED31DFBAE23828"
+          }
+        },
+        {
+          "client_id": "1024106326513-otpl3lcs26c9ctrv22inci5kgf3spgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0-qlq4D8x9uA5nWzllhygR63oUpXiLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
